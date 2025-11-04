@@ -6,7 +6,14 @@ Este projeto Arduino monitora as condições críticas de **temperatura** e **um
 Utiliza um **sensor DHT22 (ou DHT11)** para leitura de dados, um **Módulo RTC DS1307** para data/hora, e exibe as informações em um **LCD 16x2**, com **LEDs indicadores** e **buzzer de alarme**.  
 O sistema também **registra automaticamente na EEPROM** os eventos em que as condições de alarme são atingidas.
 ---
+## Integrantes
+- **Nicolas Forcione de Oliveira e Souza** – RM566998  
+- **Alexandre Constantino Furtado Junior** – RM567188  
+- **Enrico Dellatorre da Fonseca** – RM566824  
+- **Leonardo Batista de Souza** – RM568558  
+- **Matheus Freitas dos Santos** – RM567337  
 
+---
 ## Imagem 
 <img width="693" height="575" alt="Image" src="https://github.com/user-attachments/assets/c8764310-44a8-41d9-8602-8e2e998d6012" />
 
